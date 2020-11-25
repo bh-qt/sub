@@ -230,7 +230,7 @@
     channel: youmtp
     num: 200
 - type: subscribe
-  options:	
+  options:
     channel: TG_Mtproxy_1
     num: 200
 - type: subscribe
@@ -250,7 +250,7 @@
     channel: sphard
     num: 200
 - type: subscribe
-  options:	
+  options:
     channel: pjzyj0
     num: 200
 - type: subscribe
@@ -270,7 +270,7 @@
     channel: abchz
     num: 200
 - type: subscribe
-  options:	
+  options:
     channel: yg251153
     num: 200
 - type: subscribe
