@@ -252,7 +252,7 @@
 - type: subscribe
   options:	
     channel: pjzyj0
-	num: 200
+    num: 200
 - type: subscribe
   options:
     channel: flyingboat
