@@ -1,11 +1,18 @@
 # 模糊抓取订阅链接
-# - type: webfuzzsub
-#   options:
-#     url: https://0520.ml/
-
-# - type: webfuzzsub
-#  options:
-#     url: https://wangxinxing.ml/
+- type: webfuzzsub
+  options:
+    url: https://zq.bihai.cf
+    
+- type: webfuzzsub
+  options:
+     url: https://zq2.bihai.cf/
+     
+- type: webfuzzsub
+  options:
+     url: https://zq.bihai.ml/
+- type: webfuzzsub
+  options:
+     url: https://zq2.bihai.ml/
 
 - type: webfuzzsub
   options:
@@ -17,16 +24,12 @@
     
 - type: webfuzzsub
   options:
-    url: https://pool-840979.asia1.kinto.io
-
-- type: webfuzzsub
-  options:
     url: https://proxypool.ga/
 
 - type: webfuzzsub
   options:
     url: https://jiedian.gooii.ml/
-
+    
 - type: webfuzzsub
   options:
     url: https://bh-qt.github.io/sub/subscribe.yaml
