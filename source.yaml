@@ -9,10 +9,11 @@
      
 - type: webfuzzsub
   options:
-     url: https://zq.bihai.ml/
+     url: https://zq3.bihai.cf/
+     
 - type: webfuzzsub
   options:
-     url: https://zq2.bihai.ml/
+     url: https://zq4.bihai.cf/
 
 - type: webfuzzsub
   options:
